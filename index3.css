@@ -1,0 +1,84 @@
+h1 {
+	font-size:7.032em;
+	font-weight:bolder;
+}
+
+p{
+	font-size:0.8em;
+}
+
+.grey{
+	background-color:lightgray;
+}
+
+.grey p{
+	text-align:right;
+	margin-top:70%;
+	font-size: 0.7em;
+	color:white;
+}
+
+#valign {
+	padding-top:1%;
+}
+.greycard {
+	width:350px;
+}
+
+#cent {
+	margin:0 25%;
+	text-align:center;
+	color:#8f0800;
+	font-size: 1em;
+}
+
+.rightalign {
+	text-align:right;
+}
+
+.leftalign {
+	text-align:left;
+}
+
+hr {
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: black;
+	height:1px;
+}
+
+.colourbrac {
+	border:1px border;
+	background:#8f0800;
+	color:white;
+	margin-right:78%;
+	margin-left:14%;
+	text-align:center;
+	position:relative;
+	bottom:50px;
+	right:117px;
+}
+
+.brac {
+	border:1px border;
+	background:#8f0800;
+	color:white;
+	margin-right:75%;
+	text-align:center;
+}
+
+.imgwidth{
+	height:315px;
+	width:350px;
+}
+
+.greyd{
+	background-color:lightgray;
+}
+
+.greyd p{
+	text-align:right;
+	margin-top:40%;
+	font-size: 0.7em;
+	color:white;
+}

@@ -1,0 +1,60 @@
+.container p {
+	font-size: 0.8em;
+}
+
+.topsquare p{
+	background:#dbdbdb;
+
+}
+
+hr {
+	margin-top: 0;
+}
+.head h1 {
+	font-size:5em;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+}
+
+.row1 h1 {
+	text-align:left;
+}
+
+.header {
+	font-size:0.7em;
+}
+
+#rightalign {
+	text-align:right;
+	font-weight: lighter;
+	font-size:0.8em;
+}
+
+.inlinep {
+	display:inline-block;
+}
+
+img {
+	width:100px;
+	height:100px;
+}
+
+.bottomimg {
+	width:100px;
+	height:80px;
+}
+
+#col2img {
+	width:305px;
+	height:150px;
+	object-fit: fill;
+
+}
+
+#by{
+	font-weight: lighter;
+}
+
+.url {
+	text-align: center;
+}
